@@ -1,5 +1,562 @@
 Girlfriend (normal): जानू, तुम मुझे कितना प्यार करते हो?
-Boyfriend (shock, zoom): जितना शाहजहाँ मुमताज़ से करता था!
-Girlfriend (slap, shake): झूठे! तो क्या मेरे मरने का इंतज़ार कर रहे हो?
-Boyfriend (cry): अरे नहीं बाबा, मैं तो मज़ाक कर रहा था।
+Boyfriend (romantic, zoom): इतना कि तेरे लिए चाँद भी तोड़ लाऊँ!
+Girlfriend (shock, shake): पहले कल का उधार तो चुका दे, चाँद बाद में तोड़ना!
+Boyfriend (cry): उधार वाला चाँद से भी खतरनाक है बाबा!
+
 =====
+Girlfriend (normal): जानू, मैं मोटी लग रही हूँ क्या?
+Boyfriend (nervous, zoom): अरे नहीं जान, बिल्कुल नहीं!
+Girlfriend (suspicious, shake): सच बोल रहे हो?
+Boyfriend (cry): हाँ, तू मोटी नहीं… बस कपड़े थोड़े छोटे पड़ गए हैं!
+
+=====
+Girlfriend (normal): जानू, मेरी सहेली मुझसे ज्यादा सुंदर है क्या?
+Boyfriend (shock, zoom): नहीं-नहीं, बिल्कुल नहीं!
+Girlfriend (slap, shake): मतलब सोचने में टाइम क्यों लगाया?
+Boyfriend (cry): दिमाग बंद हो गया था जानू!
+
+=====
+Girlfriend (normal): जानू, अगर मैं तुमसे नाराज हो जाऊँ तो?
+Boyfriend (funny, zoom): मैं तुम्हें मनाऊँगा!
+Girlfriend (angry, shake): और अगर नहीं मानी?
+Boyfriend (cry): फिर तेरे पापा को फोन करके बोलूँगा, बेटी वापस ले जाओ!
+
+=====
+Girlfriend (normal): जानू, मेरे लिए क्या कर सकते हो?
+Boyfriend (romantic, zoom): जान भी दे सकता हूँ!
+Girlfriend (shock, shake): सच में?
+Boyfriend (cry): हाँ… लेकिन पहले ये बता, खाना कौन खिलाएगा?
+
+=====
+Girlfriend (normal): जानू, शादी के बाद भी मुझे घुमाने ले जाओगे?
+Boyfriend (happy, zoom): रोज घुमाऊँगा!
+Girlfriend (slap, shake): कहाँ?
+Boyfriend (cry): घर के आँगन में… बजट इतना ही है!
+
+=====
+Girlfriend (normal): जानू, तुम्हें मेरी कौन सी चीज सबसे ज्यादा पसंद है?
+Boyfriend (romantic, zoom): तुम्हारी मुस्कान!
+Girlfriend (happy, shake): सच?
+Boyfriend (cry): हाँ, क्योंकि मुस्कुराती हो तो सवाल कम पूछती हो!
+
+=====
+Girlfriend (normal): जानू, अगर मैं तुम्हें छोड़ दूँ तो?
+Boyfriend (shock, zoom_shake): अरे पागल हो गई क्या?
+Girlfriend (angry, shake): फिर?
+Boyfriend (cry): फिर मैं तेरी सहेली को भी नहीं पटाऊँगा, कसम से!
+
+=====
+Girlfriend (normal): जानू, मेरी फोटो कैसी आई है?
+Boyfriend (happy, zoom): एकदम हीरोइन!
+Girlfriend (suspicious, shake): फोटो में या असल में?
+Boyfriend (nervous, cry): फोटो में तो पक्का… असल वाली का फैसला तू कर!
+
+=====
+Girlfriend (normal): जानू, तुम मेरे बिना रह सकते हो?
+Boyfriend (shock, zoom): बिल्कुल नहीं!
+Girlfriend (romantic, shake): इतना प्यार करते हो?
+Boyfriend (cry): नहीं, खाना बनाना नहीं आता मुझे!
+
+=====
+Girlfriend (normal): जानू, मेरा फोन क्यों नहीं उठा रहे थे?
+Boyfriend (nervous, zoom): फोन साइलेंट था!
+Girlfriend (suspicious, shake): फोन साइलेंट था या तुम?
+Boyfriend (cry): मैं तो पैदा ही साइलेंट था बाबा!
+
+=====
+Girlfriend (normal): जानू, मेरी ड्रेस कैसी लग रही है?
+Boyfriend (romantic, zoom): बहुत सुंदर!
+Girlfriend (happy, shake): सच में?
+Boyfriend (cry): हाँ, इतनी सुंदर कि कीमत सुनकर मेरी आँखों में आँसू आ गए!
+
+=====
+Girlfriend (normal): जानू, तुम मेरे लिए महँगा गिफ्ट लाओगे?
+Boyfriend (happy, zoom): हाँ जानू!
+Girlfriend (excited, shake): कितना महँगा?
+Boyfriend (cry): जितना मेरी जेब देखकर दुकानदार हँसे नहीं!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे कभी धोखा तो नहीं दोगे?
+Boyfriend (serious, zoom): कभी नहीं!
+Girlfriend (shock, shake): पक्का?
+Boyfriend (cry): हाँ, धोखा देने के लिए पहले दूसरी लड़की चाहिए!
+
+=====
+Girlfriend (normal): जानू, मेरी याद आती है?
+Boyfriend (romantic, zoom): हर पल!
+Girlfriend (happy, shake): कितना?
+Boyfriend (cry): जब तू ऑनलाइन आती है, तब सबसे ज्यादा डर लगता है!
+
+=====
+Girlfriend (normal): जानू, मैं तुम्हारी जिंदगी में क्या हूँ?
+Boyfriend (romantic, zoom): मेरी जान!
+Girlfriend (happy, shake): और?
+Boyfriend (cry): महीने का सबसे बड़ा खर्चा!
+
+=====
+Girlfriend (normal): जानू, मेरे लिए चाँद तोड़ लाओगे?
+Boyfriend (romantic, zoom): हाँ जानू!
+Girlfriend (happy, shake): कब?
+Boyfriend (cry): पहले सीढ़ी ढूँढने दे!
+
+=====
+Girlfriend (normal): जानू, तुम्हें मेरी आँखें कैसी लगती हैं?
+Boyfriend (romantic, zoom): बहुत प्यारी!
+Girlfriend (happy, shake): और मेरी नाक?
+Boyfriend (cry): वो भी प्यारी… बस गुस्से में खतरा बन जाती है!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे पहली नजर में पसंद करने लगे थे?
+Boyfriend (romantic, zoom): हाँ!
+Girlfriend (happy, shake): सच?
+Boyfriend (cry): हाँ, दूसरी नजर में तो डर लगने लगा था!
+
+=====
+Girlfriend (normal): जानू, तुम मेरी हर बात मानोगे?
+Boyfriend (romantic, zoom): हाँ जानू, हमेशा!
+Girlfriend (happy, shake): पक्का?
+Boyfriend (cry): शादी के बाद अपनी बात भूल जाना!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे कितना खूबसूरत समझते हो?
+Boyfriend (romantic, zoom): बहुत ज्यादा!
+Girlfriend (happy, shake): मुझसे ज्यादा खूबसूरत कौन है?
+Boyfriend (shock, zoom_shake): ये सवाल पूछने की जरूरत ही क्या थी!
+
+=====
+Girlfriend (normal): जानू, अगर मैं नाराज होकर मायके चली गई तो?
+Boyfriend (shock, zoom): मैं लेने आऊँगा!
+Girlfriend (happy, shake): सच?
+Boyfriend (cry): हाँ, वरना खाना कौन बनाएगा!
+
+=====
+Girlfriend (normal): जानू, मेरे बाल कैसे लग रहे हैं?
+Boyfriend (romantic, zoom): एकदम झकास!
+Girlfriend (happy, shake): सच बोल रहे हो?
+Boyfriend (cry): हाँ, कंघी ने भी हार मान ली है!
+
+=====
+Girlfriend (normal): जानू, मेरे लिए बाइक बेच दोगे?
+Boyfriend (shock, zoom): हाँ!
+Girlfriend (happy, shake): सच में?
+Boyfriend (cry): हाँ… फिर बाइक बेचकर तेरे साथ पैदल घूमूँगा!
+
+=====
+Girlfriend (normal): जानू, मैं ज्यादा बोलती हूँ क्या?
+Boyfriend (nervous, zoom): नहीं तो!
+Girlfriend (happy, shake): सच?
+Boyfriend (cry): हाँ, मेरा फोन ही ज्यादा बोलता है… तू नहीं!
+
+=====
+Girlfriend (normal): जानू, मैं गुस्से में कैसी लगती हूँ?
+Boyfriend (shock, zoom): बहुत प्यारी!
+Girlfriend (angry, shake): सच?
+Boyfriend (cry): हाँ… दूर से!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे कभी छोड़ोगे?
+Boyfriend (romantic, zoom): मरते दम तक नहीं!
+Girlfriend (happy, shake): वाह!
+Boyfriend (cry): किराया ज्यादा हो गया तो अलग बात है!
+
+=====
+Girlfriend (normal): जानू, मेरे साथ पूरी जिंदगी रहोगे?
+Boyfriend (romantic, zoom): हाँ!
+Girlfriend (happy, shake): खुशी से?
+Boyfriend (cry): मजबूरी में भी चल जाएगा!
+
+=====
+Girlfriend (normal): जानू, मेरे लिए क्या गिफ्ट लाए हो?
+Boyfriend (happy, zoom): सरप्राइज है!
+Girlfriend (excited, shake): जल्दी दिखाओ!
+Boyfriend (cry): पहले तू गुस्सा न करने की कसम खा!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे रोज फोन करोगे?
+Boyfriend (romantic, zoom): रोज!
+Girlfriend (happy, shake): कितनी देर?
+Boyfriend (cry): जितनी देर तू बैलेंस खत्म न कर दे!
+
+=====
+Girlfriend (normal): जानू, मैं तुम्हारी किस्मत हूँ ना?
+Boyfriend (romantic, zoom): बिल्कुल!
+Girlfriend (happy, shake): अच्छी किस्मत?
+Boyfriend (cry): ये तो अभी तक समझ नहीं पाया!
+
+=====
+Girlfriend (normal): जानू, मेरे साथ भागकर शादी करोगे?
+Boyfriend (shock, zoom): हाँ!
+Girlfriend (excited, shake): कहाँ भागेंगे?
+Boyfriend (cry): पहले तेरे घरवालों से बचने की ट्रेनिंग लेंगे!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे कितना मिस करते हो?
+Boyfriend (romantic, zoom): बहुत ज्यादा!
+Girlfriend (happy, shake): कितना ज्यादा?
+Boyfriend (cry): जितना तू ऑनलाइन आकर ऑफलाइन हो जाती है!
+
+=====
+Girlfriend (normal): जानू, तुम्हें मेरे साथ फोटो खिंचवाना पसंद है?
+Boyfriend (happy, zoom): बहुत!
+Girlfriend (happy, shake): क्यों?
+Boyfriend (cry): ताकि लोग मानें कि मेरी भी गर्लफ्रेंड है!
+
+=====
+Girlfriend (normal): जानू, मैं तुम्हारी जिंदगी बदल सकती हूँ?
+Boyfriend (romantic, zoom): पूरी जिंदगी बदल सकती हो!
+Girlfriend (happy, shake): कैसे?
+Boyfriend (cry): पहले मेरी जेब बदलवा दो!
+
+=====
+Girlfriend (normal): जानू, मेरे लिए शॉपिंग कराओगे?
+Boyfriend (shock, zoom): हाँ जान!
+Girlfriend (happy, shake): कितना खर्च करोगे?
+Boyfriend (cry): इतना कि घर पहुँचकर अपना मोबाइल बेचने की नौबत न आए!
+
+=====
+Girlfriend (normal): जानू, तुम मेरी बात सुनते भी हो?
+Boyfriend (nervous, zoom): हाँ-हाँ!
+Girlfriend (angry, shake): मैंने अभी क्या कहा?
+Boyfriend (shock, zoom_shake): बस यही तो सुनने से रह गया!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे खुश रखोगे?
+Boyfriend (romantic, zoom): हमेशा!
+Girlfriend (happy, shake): कैसे?
+Boyfriend (cry): महीने में एक बार सैलरी दिखाकर!
+
+=====
+Girlfriend (normal): जानू, मैं मोटी हो जाऊँ तो भी प्यार करोगे?
+Boyfriend (romantic, zoom): हाँ जान!
+Girlfriend (happy, shake): बहुत मोटी हो गई तो?
+Boyfriend (cry): तब प्यार से दो किलो वजन कम करने बोलूँगा!
+
+=====
+Girlfriend (normal): जानू, तुम मेरे लिए खाना बना सकते हो?
+Boyfriend (happy, zoom): बिल्कुल!
+Girlfriend (happy, shake): क्या बनाओगे?
+Boyfriend (cry): मैगी… वो भी आधी कच्ची!
+
+=====
+Girlfriend (normal): जानू, मेरी सहेली कैसी है?
+Boyfriend (nervous, zoom): ठीक है!
+Girlfriend (suspicious, shake): सिर्फ ठीक?
+Boyfriend (cry): अब सुंदर बोल दिया तो आज घर जाना मुश्किल हो जाएगा!
+
+=====
+Girlfriend (normal): जानू, तुम मेरे बिना कितने दिन रह सकते हो?
+Boyfriend (shock, zoom): एक दिन भी नहीं!
+Girlfriend (happy, shake): इतना प्यार?
+Boyfriend (cry): नहीं, पासवर्ड तू ही जानती है!
+
+=====
+Girlfriend (normal): जानू, मेरे जन्मदिन पर क्या दोगे?
+Boyfriend (romantic, zoom): जो माँगोगी!
+Girlfriend (excited, shake): सच?
+Boyfriend (cry): हाँ, बस बाइक मत माँगना!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे रानी मानते हो?
+Boyfriend (romantic, zoom): हाँ मेरी रानी!
+Girlfriend (happy, shake): और खुद?
+Boyfriend (cry): तेरे राज्य का गरीब प्रजा!
+
+=====
+Girlfriend (normal): जानू, मेरे गुस्से से डरते हो?
+Boyfriend (nervous, zoom): थोड़ा सा!
+Girlfriend (angry, shake): थोड़ा?
+Boyfriend (shock, zoom_shake): बाकी डर तो बहुत ज्यादा है!
+
+=====
+Girlfriend (normal): जानू, अगर मैं तुम्हें ब्लॉक कर दूँ तो?
+Boyfriend (shock, zoom): मेरी जान निकल जाएगी!
+Girlfriend (happy, shake): सच?
+Boyfriend (cry): हाँ, क्योंकि दूसरा नंबर भी तेरे नाम से सेव है!
+
+=====
+Girlfriend (normal): जानू, तुम्हें मेरी आवाज पसंद है?
+Boyfriend (romantic, zoom): बहुत!
+Girlfriend (happy, shake): सच में?
+Boyfriend (cry): हाँ, जब तू चुप रहती है तब सबसे ज्यादा!
+
+=====
+Girlfriend (normal): जानू, मेरे लिए पागल हो?
+Boyfriend (romantic, zoom): बिल्कुल!
+Girlfriend (happy, shake): कितना?
+Boyfriend (cry): इतना कि तेरे साथ शादी का सोच रहा हूँ!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे क्या समझते हो?
+Boyfriend (romantic, zoom): अपनी दुनिया!
+Girlfriend (happy, shake): और?
+Boyfriend (cry): दुनिया का सबसे महँगा खर्चा!
+
+=====
+Girlfriend (normal): जानू, अगर मैं कहूँ कि मुझे नया फोन चाहिए?
+Boyfriend (shock, zoom): दिला दूँगा!
+Girlfriend (happy, shake): कौन सा?
+Boyfriend (cry): अपना पुराना… चार्जर अलग से खरीद लेना!
+
+=====
+Girlfriend (normal): जानू, मेरी ड्रेस पर कमेंट क्यों नहीं किया?
+Boyfriend (nervous, zoom): डर गया था!
+Girlfriend (shock, shake): किससे?
+Boyfriend (cry): कीमत देखकर!
+
+=====
+Girlfriend (normal): जानू, मैं तुम्हारे लिए कितनी खास हूँ?
+Boyfriend (romantic, zoom): सबसे खास!
+Girlfriend (happy, shake): सच?
+Boyfriend (cry): हाँ, तेरे मैसेज आते ही बाकी सबका फोन बंद कर देता हूँ!
+
+=====
+Girlfriend (normal): जानू, मेरे पापा से डरते हो?
+Boyfriend (nervous, zoom): थोड़ा!
+Girlfriend (angry, shake): थोड़ा?
+Boyfriend (shock, zoom_shake): उनके सामने तो मैं अपना नाम भी भूल जाता हूँ!
+
+=====
+Girlfriend (normal): जानू, अगर मैं कहूँ कि आज बाहर खाना है?
+Boyfriend (happy, zoom): चलो!
+Girlfriend (happy, shake): बिल कौन देगा?
+Boyfriend (cry): प्यार तूने किया है, खर्चा मैं क्यों करूँ!
+
+=====
+Girlfriend (normal): जानू, तुम मेरे लिए मर सकते हो?
+Boyfriend (romantic, zoom): हाँ!
+Girlfriend (shock, shake): सच में?
+Boyfriend (cry): हाँ, तेरी शॉपिंग की लिस्ट देखकर तो वैसे भी हालत खराब है!
+
+=====
+Girlfriend (normal): जानू, तुम्हें मेरी कौन सी आदत खराब लगती है?
+Boyfriend (nervous, zoom): कोई नहीं!
+Girlfriend (angry, shake): झूठ बोल रहे हो?
+Boyfriend (cry): तेरी पूछताछ वाली आदत छोड़कर सब अच्छी है!
+
+=====
+Girlfriend (normal): जानू, मैं तुम्हारे लिए चाँद जैसी हूँ?
+Boyfriend (romantic, zoom): बिल्कुल!
+Girlfriend (happy, shake): मतलब खूबसूरत?
+Boyfriend (cry): मतलब रात में ही दिखाई देती हो!
+
+=====
+Girlfriend (normal): जानू, तुम मेरे लिए कविता लिखोगे?
+Boyfriend (romantic, zoom): हाँ जान!
+Girlfriend (happy, shake): सुनाओ!
+Boyfriend (cry): “तू मेरी जान, मैं तेरा यार… पहले बता खाना है क्या आज तैयार?”
+
+=====
+Girlfriend (normal): जानू, तुम मुझसे शादी क्यों करना चाहते हो?
+Boyfriend (romantic, zoom): क्योंकि तुम मेरी जिंदगी हो!
+Girlfriend (happy, shake): और कोई वजह?
+Boyfriend (cry): अब इतना पूछोगी तो वजह भी सोचनी पड़ेगी!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे सरप्राइज दोगे?
+Boyfriend (happy, zoom): हाँ!
+Girlfriend (excited, shake): कैसा?
+Boyfriend (cry): महीने के आखिर में भी पैसे बच जाएँ, उससे बड़ा सरप्राइज क्या होगा!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे हर जगह साथ ले जाओगे?
+Boyfriend (romantic, zoom): हर जगह!
+Girlfriend (happy, shake): पक्का?
+Boyfriend (cry): हाँ, बस ससुराल जाते टाइम मुझे अकेला छोड़ देना!
+
+=====
+Girlfriend (normal): जानू, मैं तुम्हारे फोन से ज्यादा जरूरी हूँ?
+Boyfriend (shock, zoom): बिल्कुल!
+Girlfriend (happy, shake): सच?
+Boyfriend (cry): हाँ, फोन टूटे तो नया मिल जाएगा… तू टूट गई तो मैं गया!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे कभी झूठ बोलते हो?
+Boyfriend (nervous, zoom): कभी नहीं!
+Girlfriend (suspicious, shake): अभी?
+Boyfriend (shock, zoom_shake): अभी वाला झूठ था!
+
+=====
+Girlfriend (normal): जानू, तुम मेरे लिए कितनी दूर जा सकते हो?
+Boyfriend (romantic, zoom): दुनिया के आखिरी कोने तक!
+Girlfriend (happy, shake): सच?
+Boyfriend (cry): हाँ, बस तेरे साथ मार्केट नहीं जाऊँगा, बहुत दूर है!
+
+=====
+Girlfriend (normal): जानू, मैं तुम्हारी जिंदगी की सबसे बड़ी खुशी हूँ?
+Boyfriend (romantic, zoom): हाँ!
+Girlfriend (happy, shake): और सबसे बड़ा दुख?
+Boyfriend (cry): तेरी ऑनलाइन शॉपिंग का बिल!
+
+=====
+Girlfriend (normal): जानू, अगर मैं गुस्सा हो जाऊँ तो मुझे मनाओगे?
+Boyfriend (romantic, zoom): हाँ!
+Girlfriend (angry, shake): अभी गुस्सा हूँ!
+Boyfriend (shock, zoom_shake): अरे मैं तो बस उदाहरण दे रहा था!
+
+=====
+Girlfriend (normal): जानू, मेरे लिए अपनी नींद छोड़ दोगे?
+Boyfriend (romantic, zoom): हाँ!
+Girlfriend (happy, shake): सच?
+Boyfriend (cry): हाँ, जब तू रात में तीन बजे “जाग रहे हो?” लिखती है!
+
+=====
+Girlfriend (normal): जानू, मेरी पसंद का खाना खाओगे?
+Boyfriend (happy, zoom): हाँ!
+Girlfriend (happy, shake): रोज?
+Boyfriend (cry): रोज नहीं जान, पेट भी मेरा है!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे देखकर क्या सोचते हो?
+Boyfriend (romantic, zoom): मेरी किस्मत कितनी अच्छी है!
+Girlfriend (happy, shake): वाह!
+Boyfriend (cry): फिर अगले ही पल बैंक बैलेंस याद आ जाता है!
+
+=====
+Girlfriend (normal): जानू, तुम मेरी बात क्यों नहीं काटते?
+Boyfriend (nervous, zoom): प्यार करता हूँ!
+Girlfriend (happy, shake): सच?
+Boyfriend (cry): नहीं, काटा तो बात बढ़ जाएगी!
+
+=====
+Girlfriend (normal): जानू, अगर मैं कहूँ कि मुझे हीरा चाहिए?
+Boyfriend (shock, zoom): हीरा?
+Girlfriend (happy, shake): हाँ!
+Boyfriend (cry): मैं तो खुद को हीरा समझकर बैठा था, तूने तो असली वाला माँग लिया!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे कितनी बार “आई लव यू” बोलोगे?
+Boyfriend (romantic, zoom): जितनी बार कहोगी!
+Girlfriend (happy, shake): अभी बोलो!
+Boyfriend (cry): पहले तू “आज शॉपिंग नहीं करूँगी” बोल!
+
+=====
+Girlfriend (normal): जानू, मैं बूढ़ी हो जाऊँ तो भी प्यार करोगे?
+Boyfriend (romantic, zoom): हमेशा!
+Girlfriend (happy, shake): पक्का?
+Boyfriend (cry): हाँ, तब शायद तेरी डाँट की आवाज कम आए!
+
+=====
+Girlfriend (normal): जानू, तुम मेरे साथ सेल्फी क्यों नहीं लेते?
+Boyfriend (nervous, zoom): कैमरा खराब है!
+Girlfriend (shock, shake): फोन तो नया है!
+Boyfriend (cry): कैमरा नहीं, मेरी किस्मत खराब है!
+
+=====
+Girlfriend (normal): जानू, मैं तुम्हारी जिंदगी में क्या बदल सकती हूँ?
+Boyfriend (romantic, zoom): सब कुछ!
+Girlfriend (happy, shake): सच?
+Boyfriend (cry): हाँ, खासकर बैंक बैलेंस!
+
+=====
+Girlfriend (normal): जानू, तुम मेरे लिए क्या खरीदोगे?
+Boyfriend (happy, zoom): जो पसंद आए!
+Girlfriend (excited, shake): कार?
+Boyfriend (shock, zoom_shake): मैंने “जो” कहा था, “जो कुछ भी” नहीं!
+
+=====
+Girlfriend (normal): जानू, तुम्हें मेरा नया हेयरस्टाइल कैसा लगा?
+Boyfriend (romantic, zoom): बहुत सुंदर!
+Girlfriend (happy, shake): सच?
+Boyfriend (cry): हाँ, पहचानने में बस पाँच मिनट लगे!
+
+=====
+Girlfriend (normal): जानू, तुम मेरे पापा को क्या बोलोगे?
+Boyfriend (nervous, zoom): नमस्ते अंकल!
+Girlfriend (happy, shake): और शादी की बात?
+Boyfriend (shock, zoom_shake): पहले नमस्ते से जिंदा बचने दे!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे लेकर भाग जाओगे?
+Boyfriend (romantic, zoom): हाँ!
+Girlfriend (happy, shake): कहाँ?
+Boyfriend (cry): जहाँ तेरे पापा का नेटवर्क न आए!
+
+=====
+Girlfriend (normal): जानू, तुम मेरे लिए अपनी बाइक बेच दोगे?
+Boyfriend (shock, zoom): हाँ!
+Girlfriend (happy, shake): सच में?
+Boyfriend (cry): हाँ, लेकिन फिर तू ही मुझे बाइक पर बैठाकर घुमाना!
+
+=====
+Girlfriend (normal): जानू, मैं तुमसे ज्यादा सुंदर हूँ ना?
+Boyfriend (romantic, zoom): बिल्कुल!
+Girlfriend (happy, shake): कितना?
+Boyfriend (cry): इतना कि आईना भी तुझे देखकर अपनी चमक बढ़ा ले!
+
+=====
+Girlfriend (normal): जानू, तुम्हें मुझमें सबसे प्यारी चीज क्या लगती है?
+Boyfriend (romantic, zoom): तेरा दिल!
+Girlfriend (happy, shake): और?
+Boyfriend (cry): तेरे घर की रसोई!
+
+=====
+Girlfriend (normal): जानू, मेरी कसम खाकर बोलो कि मुझसे प्यार करते हो!
+Boyfriend (shock, zoom): तेरी कसम, बहुत प्यार करता हूँ!
+Girlfriend (happy, shake): और झूठ नहीं बोल रहे?
+Boyfriend (cry): कसम खिला के भी शक कर रही है, अब भगवान ही बचाए!
+
+=====
+Girlfriend (normal): जानू, तुम मेरी हर इच्छा पूरी करोगे?
+Boyfriend (romantic, zoom): हाँ जान!
+Girlfriend (happy, shake): तो मुझे नया फोन चाहिए!
+Boyfriend (shock, zoom_shake): इच्छा पूरी करने को बोला था, बैंक लूटने को नहीं!
+
+=====
+Girlfriend (normal): जानू, अगर मैं तुम्हें छोड़ दूँ तो तुम क्या करोगे?
+Boyfriend (shock, zoom): मैं टूट जाऊँगा!
+Girlfriend (angry, shake): सच?
+Boyfriend (cry): हाँ, क्योंकि तेरे दिए सारे कपड़े भी वापस करने पड़ेंगे!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे रोज प्यार से बुलाओगे?
+Boyfriend (romantic, zoom): हाँ मेरी जान!
+Girlfriend (happy, shake): क्या बुलाओगे?
+Boyfriend (cry): पहले ये बता, आज खाना किसने बनाया है!
+
+=====
+Girlfriend (normal): जानू, तुम मेरे साथ बूढ़े होना चाहते हो?
+Boyfriend (romantic, zoom): हाँ!
+Girlfriend (happy, shake): बहुत प्यार है?
+Boyfriend (cry): हाँ, लेकिन तू पहले ये गुस्सा करना बंद कर!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे कभी परेशान नहीं करोगे?
+Boyfriend (romantic, zoom): कभी नहीं!
+Girlfriend (happy, shake): पक्का?
+Boyfriend (cry): हाँ, क्योंकि परेशान करने का काम तो तू अकेली कर रही है!
+
+=====
+Girlfriend (normal): जानू, मैं तुम्हारे लिए लकी हूँ?
+Boyfriend (romantic, zoom): बहुत लकी!
+Girlfriend (happy, shake): कैसे?
+Boyfriend (cry): तेरे आने के बाद मेरी जेब खाली रहने लगी, अब वजन कम हो गया!
+
+=====
+Girlfriend (normal): जानू, तुम मेरे लिए दुनिया से लड़ सकते हो?
+Boyfriend (heroic, zoom): पूरी दुनिया से!
+Girlfriend (angry, shake): मेरे पापा से भी?
+Boyfriend (shock, zoom_shake): दुनिया से लड़ लूँगा, पापा से नहीं!
+
+=====
+Girlfriend (normal): जानू, तुम मुझे इतना देखते क्यों रहते हो?
+Boyfriend (romantic, zoom): क्योंकि तुम बहुत सुंदर हो!
+Girlfriend (happy, shake): सच?
+Boyfriend (cry): हाँ, बिल कब आएगा उसका इंतजार कर रहा हूँ!
+
+=====
+Girlfriend (normal): जानू, तुम मेरी बात हमेशा मानोगे?
+Boyfriend (romantic, zoom): हाँ जान!
+Girlfriend (happy, shake): अभी मानोगे?
+Boyfriend (shock, zoom_shake): अभी से? शादी तो होने दे!
+
+=====
+Girlfriend (normal): जानू, मैं तुम्हारी पहली मोहब्बत हूँ?
+Boyfriend (romantic, zoom): हाँ!
+Girlfriend (suspicious, shake): पक्का?
+Boyfriend (cry): पुरानी सारी फाइलें डिलीट कर दी हैं जानू!
+
+=====
+Girlfriend (normal): जानू, तुम मुझसे कितना प्यार करते हो?
+Boyfriend (romantic, zoom): जितना शाहजहाँ मुमताज़ से करता था!
+Girlfriend (slap, shake): झूठे! तो क्या मेरे मरने का इंतज़ार कर रहे हो?
+Boyfriend (cry, zoom_shake): अरे नहीं बाबा, मैं तो मज़ाक कर रहा था!
