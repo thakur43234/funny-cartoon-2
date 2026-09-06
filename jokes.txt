@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मेरे लिए क्या कर सकते हो?
-Boyfriend (romantic, zoom): जान भी दे सकता हूँ!
-Girlfriend (shock, shake): सच में?
-Boyfriend (cry): हाँ… लेकिन पहले ये बता, खाना कौन खिलाएगा?
-=====
 Girlfriend (normal): जानू, शादी के बाद भी मुझे घुमाने ले जाओगे?
 Boyfriend (happy, zoom): रोज घुमाऊँगा!
 Girlfriend (slap, shake): कहाँ?
