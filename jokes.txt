@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, शादी के बाद भी मुझे घुमाने ले जाओगे?
-Boyfriend (happy, zoom): रोज घुमाऊँगा!
-Girlfriend (slap, shake): कहाँ?
-Boyfriend (cry): घर के आँगन में… बजट इतना ही है!
-=====
 Girlfriend (normal): जानू, तुम्हें मेरी कौन सी चीज सबसे ज्यादा पसंद है?
 Boyfriend (romantic, zoom): तुम्हारी मुस्कान!
 Girlfriend (happy, shake): सच?
