@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मेरी फोटो कैसी आई है?
-Boyfriend (happy, zoom): एकदम हीरोइन!
-Girlfriend (suspicious, shake): फोटो में या असल में?
-Boyfriend (nervous, cry): फोटो में तो पक्का… असल वाली का फैसला तू कर!
-=====
 Girlfriend (normal): जानू, तुम मेरे बिना रह सकते हो?
 Boyfriend (shock, zoom): बिल्कुल नहीं!
 Girlfriend (romantic, shake): इतना प्यार करते हो?
