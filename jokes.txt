@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, तुम मेरे बिना रह सकते हो?
-Boyfriend (shock, zoom): बिल्कुल नहीं!
-Girlfriend (romantic, shake): इतना प्यार करते हो?
-Boyfriend (cry): नहीं, खाना बनाना नहीं आता मुझे!
-=====
 Girlfriend (normal): जानू, मेरा फोन क्यों नहीं उठा रहे थे?
 Boyfriend (nervous, zoom): फोन साइलेंट था!
 Girlfriend (suspicious, shake): फोन साइलेंट था या तुम?
