@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मेरी ड्रेस कैसी लग रही है?
-Boyfriend (romantic, zoom): बहुत सुंदर!
-Girlfriend (happy, shake): सच में?
-Boyfriend (cry): हाँ, इतनी सुंदर कि कीमत सुनकर मेरी आँखों में आँसू आ गए!
-=====
 Girlfriend (normal): जानू, तुम मेरे लिए महँगा गिफ्ट लाओगे?
 Boyfriend (happy, zoom): हाँ जानू!
 Girlfriend (excited, shake): कितना महँगा?
