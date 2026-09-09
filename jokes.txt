@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मेरी याद आती है?
-Boyfriend (romantic, zoom): हर पल!
-Girlfriend (happy, shake): कितना?
-Boyfriend (cry): जब तू ऑनलाइन आती है, तब सबसे ज्यादा डर लगता है!
-=====
 Girlfriend (normal): जानू, मैं तुम्हारी जिंदगी में क्या हूँ?
 Boyfriend (romantic, zoom): मेरी जान!
 Girlfriend (happy, shake): और?
