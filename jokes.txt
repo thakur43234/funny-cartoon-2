@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, तुम मुझे पहली नजर में पसंद करने लगे थे?
-Boyfriend (romantic, zoom): हाँ!
-Girlfriend (happy, shake): सच?
-Boyfriend (cry): हाँ, दूसरी नजर में तो डर लगने लगा था!
-=====
 Girlfriend (normal): जानू, तुम मेरी हर बात मानोगे?
 Boyfriend (romantic, zoom): हाँ जानू, हमेशा!
 Girlfriend (happy, shake): पक्का?
