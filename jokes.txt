@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मेरे लिए चाँद तोड़ लाओगे?
-Boyfriend (romantic, zoom): हाँ जानू!
-Girlfriend (happy, shake): कब?
-Boyfriend (cry): पहले सीढ़ी ढूँढने दे!
-=====
 Girlfriend (normal): जानू, तुम्हें मेरी आँखें कैसी लगती हैं?
 Boyfriend (romantic, zoom): बहुत प्यारी!
 Girlfriend (happy, shake): और मेरी नाक?
