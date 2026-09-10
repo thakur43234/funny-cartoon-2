@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, तुम्हें मेरी आँखें कैसी लगती हैं?
-Boyfriend (romantic, zoom): बहुत प्यारी!
-Girlfriend (happy, shake): और मेरी नाक?
-Boyfriend (cry): वो भी प्यारी… बस गुस्से में खतरा बन जाती है!
-=====
 Girlfriend (normal): जानू, तुम मुझे पहली नजर में पसंद करने लगे थे?
 Boyfriend (romantic, zoom): हाँ!
 Girlfriend (happy, shake): सच?
