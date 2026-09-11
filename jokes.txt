@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, तुम मुझे कितना खूबसूरत समझते हो?
-Boyfriend (romantic, zoom): बहुत ज्यादा!
-Girlfriend (happy, shake): मुझसे ज्यादा खूबसूरत कौन है?
-Boyfriend (shock, zoom_shake): ये सवाल पूछने की जरूरत ही क्या थी!
-=====
 Girlfriend (normal): जानू, अगर मैं नाराज होकर मायके चली गई तो?
 Boyfriend (shock, zoom): मैं लेने आऊँगा!
 Girlfriend (happy, shake): सच?
