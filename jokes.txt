@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मेरे लिए बाइक बेच दोगे?
-Boyfriend (shock, zoom): हाँ!
-Girlfriend (happy, shake): सच में?
-Boyfriend (cry): हाँ… फिर बाइक बेचकर तेरे साथ पैदल घूमूँगा!
-=====
 Girlfriend (normal): जानू, मैं ज्यादा बोलती हूँ क्या?
 Boyfriend (nervous, zoom): नहीं तो!
 Girlfriend (happy, shake): सच?
