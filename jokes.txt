@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मेरे बाल कैसे लग रहे हैं?
-Boyfriend (romantic, zoom): एकदम झकास!
-Girlfriend (happy, shake): सच बोल रहे हो?
-Boyfriend (cry): हाँ, कंघी ने भी हार मान ली है!
-=====
 Girlfriend (normal): जानू, मेरे लिए बाइक बेच दोगे?
 Boyfriend (shock, zoom): हाँ!
 Girlfriend (happy, shake): सच में?
