@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मैं गुस्से में कैसी लगती हूँ?
-Boyfriend (shock, zoom): बहुत प्यारी!
-Girlfriend (angry, shake): सच?
-Boyfriend (cry): हाँ… दूर से!
-=====
 Girlfriend (normal): जानू, तुम मुझे कभी छोड़ोगे?
 Boyfriend (romantic, zoom): मरते दम तक नहीं!
 Girlfriend (happy, shake): वाह!
