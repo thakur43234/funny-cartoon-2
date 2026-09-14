@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मेरे लिए क्या गिफ्ट लाए हो?
-Boyfriend (happy, zoom): सरप्राइज है!
-Girlfriend (excited, shake): जल्दी दिखाओ!
-Boyfriend (cry): पहले तू गुस्सा न करने की कसम खा!
-=====
 Girlfriend (normal): जानू, तुम मुझे रोज फोन करोगे?
 Boyfriend (romantic, zoom): रोज!
 Girlfriend (happy, shake): कितनी देर?
