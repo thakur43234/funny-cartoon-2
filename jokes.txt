@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, तुम मुझे रोज फोन करोगे?
-Boyfriend (romantic, zoom): रोज!
-Girlfriend (happy, shake): कितनी देर?
-Boyfriend (cry): जितनी देर तू बैलेंस खत्म न कर दे!
-=====
 Girlfriend (normal): जानू, मैं तुम्हारी किस्मत हूँ ना?
 Boyfriend (romantic, zoom): बिल्कुल!
 Girlfriend (happy, shake): अच्छी किस्मत?
