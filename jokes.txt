@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मैं तुम्हारी जिंदगी बदल सकती हूँ?
-Boyfriend (romantic, zoom): पूरी जिंदगी बदल सकती हो!
-Girlfriend (happy, shake): कैसे?
-Boyfriend (cry): पहले मेरी जेब बदलवा दो!
-=====
 Girlfriend (normal): जानू, मेरे लिए शॉपिंग कराओगे?
 Boyfriend (shock, zoom): हाँ जान!
 Girlfriend (happy, shake): कितना खर्च करोगे?
