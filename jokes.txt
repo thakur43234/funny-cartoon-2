@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, तुम मेरी बात सुनते भी हो?
-Boyfriend (nervous, zoom): हाँ-हाँ!
-Girlfriend (angry, shake): मैंने अभी क्या कहा?
-Boyfriend (shock, zoom_shake): बस यही तो सुनने से रह गया!
-=====
 Girlfriend (normal): जानू, तुम मुझे खुश रखोगे?
 Boyfriend (romantic, zoom): हमेशा!
 Girlfriend (happy, shake): कैसे?
