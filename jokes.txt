@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मेरे लिए शॉपिंग कराओगे?
-Boyfriend (shock, zoom): हाँ जान!
-Girlfriend (happy, shake): कितना खर्च करोगे?
-Boyfriend (cry): इतना कि घर पहुँचकर अपना मोबाइल बेचने की नौबत न आए!
-=====
 Girlfriend (normal): जानू, तुम मेरी बात सुनते भी हो?
 Boyfriend (nervous, zoom): हाँ-हाँ!
 Girlfriend (angry, shake): मैंने अभी क्या कहा?
