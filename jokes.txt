@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, तुम मेरे लिए खाना बना सकते हो?
-Boyfriend (happy, zoom): बिल्कुल!
-Girlfriend (happy, shake): क्या बनाओगे?
-Boyfriend (cry): मैगी… वो भी आधी कच्ची!
-=====
 Girlfriend (normal): जानू, मेरी सहेली कैसी है?
 Boyfriend (nervous, zoom): ठीक है!
 Girlfriend (suspicious, shake): सिर्फ ठीक?
