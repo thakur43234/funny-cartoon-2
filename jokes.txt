@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मेरे जन्मदिन पर क्या दोगे?
-Boyfriend (romantic, zoom): जो माँगोगी!
-Girlfriend (excited, shake): सच?
-Boyfriend (cry): हाँ, बस बाइक मत माँगना!
-=====
 Girlfriend (normal): जानू, तुम मुझे रानी मानते हो?
 Boyfriend (romantic, zoom): हाँ मेरी रानी!
 Girlfriend (happy, shake): और खुद?
