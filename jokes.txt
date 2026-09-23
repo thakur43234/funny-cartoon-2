@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मेरे गुस्से से डरते हो?
-Boyfriend (nervous, zoom): थोड़ा सा!
-Girlfriend (angry, shake): थोड़ा?
-Boyfriend (shock, zoom_shake): बाकी डर तो बहुत ज्यादा है!
-=====
 Girlfriend (normal): जानू, अगर मैं तुम्हें ब्लॉक कर दूँ तो?
 Boyfriend (shock, zoom): मेरी जान निकल जाएगी!
 Girlfriend (happy, shake): सच?
