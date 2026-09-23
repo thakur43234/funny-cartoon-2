@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, अगर मैं तुम्हें ब्लॉक कर दूँ तो?
-Boyfriend (shock, zoom): मेरी जान निकल जाएगी!
-Girlfriend (happy, shake): सच?
-Boyfriend (cry): हाँ, क्योंकि दूसरा नंबर भी तेरे नाम से सेव है!
-=====
 Girlfriend (normal): जानू, तुम्हें मेरी आवाज पसंद है?
 Boyfriend (romantic, zoom): बहुत!
 Girlfriend (happy, shake): सच में?
