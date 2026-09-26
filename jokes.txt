@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मैं तुम्हारे लिए कितनी खास हूँ?
-Boyfriend (romantic, zoom): सबसे खास!
-Girlfriend (happy, shake): सच?
-Boyfriend (cry): हाँ, तेरे मैसेज आते ही बाकी सबका फोन बंद कर देता हूँ!
-=====
 Girlfriend (normal): जानू, मेरे पापा से डरते हो?
 Boyfriend (nervous, zoom): थोड़ा!
 Girlfriend (angry, shake): थोड़ा?
