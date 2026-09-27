@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, अगर मैं कहूँ कि आज बाहर खाना है?
-Boyfriend (happy, zoom): चलो!
-Girlfriend (happy, shake): बिल कौन देगा?
-Boyfriend (cry): प्यार तूने किया है, खर्चा मैं क्यों करूँ!
-=====
 Girlfriend (normal): जानू, तुम मेरे लिए मर सकते हो?
 Boyfriend (romantic, zoom): हाँ!
 Girlfriend (shock, shake): सच में?
