@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, तुम मेरे लिए मर सकते हो?
-Boyfriend (romantic, zoom): हाँ!
-Girlfriend (shock, shake): सच में?
-Boyfriend (cry): हाँ, तेरी शॉपिंग की लिस्ट देखकर तो वैसे भी हालत खराब है!
-=====
 Girlfriend (normal): जानू, तुम्हें मेरी कौन सी आदत खराब लगती है?
 Boyfriend (nervous, zoom): कोई नहीं!
 Girlfriend (angry, shake): झूठ बोल रहे हो?
