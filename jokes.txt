@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, तुम मेरे लिए कविता लिखोगे?
-Boyfriend (romantic, zoom): हाँ जान!
-Girlfriend (happy, shake): सुनाओ!
-Boyfriend (cry): “तू मेरी जान, मैं तेरा यार… पहले बता खाना है क्या आज तैयार?”
-=====
 Girlfriend (normal): जानू, तुम मुझसे शादी क्यों करना चाहते हो?
 Boyfriend (romantic, zoom): क्योंकि तुम मेरी जिंदगी हो!
 Girlfriend (happy, shake): और कोई वजह?
