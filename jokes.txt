@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, तुम मुझे हर जगह साथ ले जाओगे?
-Boyfriend (romantic, zoom): हर जगह!
-Girlfriend (happy, shake): पक्का?
-Boyfriend (cry): हाँ, बस ससुराल जाते टाइम मुझे अकेला छोड़ देना!
-=====
 Girlfriend (normal): जानू, मैं तुम्हारे फोन से ज्यादा जरूरी हूँ?
 Boyfriend (shock, zoom): बिल्कुल!
 Girlfriend (happy, shake): सच?
