@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मैं तुम्हारे फोन से ज्यादा जरूरी हूँ?
-Boyfriend (shock, zoom): बिल्कुल!
-Girlfriend (happy, shake): सच?
-Boyfriend (cry): हाँ, फोन टूटे तो नया मिल जाएगा… तू टूट गई तो मैं गया!
-=====
 Girlfriend (normal): जानू, तुम मुझे कभी झूठ बोलते हो?
 Boyfriend (nervous, zoom): कभी नहीं!
 Girlfriend (suspicious, shake): अभी?
