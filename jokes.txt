@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, तुम मुझे कितनी बार “आई लव यू” बोलोगे?
-Boyfriend (romantic, zoom): जितनी बार कहोगी!
-Girlfriend (happy, shake): अभी बोलो!
-Boyfriend (cry): पहले तू “आज शॉपिंग नहीं करूँगी” बोल!
-=====
 Girlfriend (normal): जानू, मैं बूढ़ी हो जाऊँ तो भी प्यार करोगे?
 Boyfriend (romantic, zoom): हमेशा!
 Girlfriend (happy, shake): पक्का?
