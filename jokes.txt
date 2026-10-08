@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, तुम मेरे साथ सेल्फी क्यों नहीं लेते?
-Boyfriend (nervous, zoom): कैमरा खराब है!
-Girlfriend (shock, shake): फोन तो नया है!
-Boyfriend (cry): कैमरा नहीं, मेरी किस्मत खराब है!
-=====
 Girlfriend (normal): जानू, मैं तुम्हारी जिंदगी में क्या बदल सकती हूँ?
 Boyfriend (romantic, zoom): सब कुछ!
 Girlfriend (happy, shake): सच?
