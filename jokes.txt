@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, तुम मेरे पापा को क्या बोलोगे?
-Boyfriend (nervous, zoom): नमस्ते अंकल!
-Girlfriend (happy, shake): और शादी की बात?
-Boyfriend (shock, zoom_shake): पहले नमस्ते से जिंदा बचने दे!
-=====
 Girlfriend (normal): जानू, तुम मुझे लेकर भाग जाओगे?
 Boyfriend (romantic, zoom): हाँ!
 Girlfriend (happy, shake): कहाँ?
