@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, मैं तुमसे ज्यादा सुंदर हूँ ना?
-Boyfriend (romantic, zoom): बिल्कुल!
-Girlfriend (happy, shake): कितना?
-Boyfriend (cry): इतना कि आईना भी तुझे देखकर अपनी चमक बढ़ा ले!
-=====
 Girlfriend (normal): जानू, तुम्हें मुझमें सबसे प्यारी चीज क्या लगती है?
 Boyfriend (romantic, zoom): तेरा दिल!
 Girlfriend (happy, shake): और?
