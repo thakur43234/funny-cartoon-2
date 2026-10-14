@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, तुम्हें मुझमें सबसे प्यारी चीज क्या लगती है?
-Boyfriend (romantic, zoom): तेरा दिल!
-Girlfriend (happy, shake): और?
-Boyfriend (cry): तेरे घर की रसोई!
-=====
 Girlfriend (normal): जानू, मेरी कसम खाकर बोलो कि मुझसे प्यार करते हो!
 Boyfriend (shock, zoom): तेरी कसम, बहुत प्यार करता हूँ!
 Girlfriend (happy, shake): और झूठ नहीं बोल रहे?
