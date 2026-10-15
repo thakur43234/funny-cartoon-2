@@ -1,8 +1,3 @@
-Girlfriend (normal): जानू, अगर मैं तुम्हें छोड़ दूँ तो तुम क्या करोगे?
-Boyfriend (shock, zoom): मैं टूट जाऊँगा!
-Girlfriend (angry, shake): सच?
-Boyfriend (cry): हाँ, क्योंकि तेरे दिए सारे कपड़े भी वापस करने पड़ेंगे!
-=====
 Girlfriend (normal): जानू, तुम मुझे रोज प्यार से बुलाओगे?
 Boyfriend (romantic, zoom): हाँ मेरी जान!
 Girlfriend (happy, shake): क्या बुलाओगे?
